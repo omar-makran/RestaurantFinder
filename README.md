@@ -7,10 +7,6 @@
 
 A beautiful SwiftUI app for discovering and exploring restaurants in Morocco. Find the perfect dining spot near you or across the country with ease.
 
-<div align="center">
-  <img src="https://via.placeholder.com/300x200/FF4E01/FFFFFF?text=AjiTakl+Preview" alt="App Preview" width="300"/>
-</div>
-
 ## ✨ Features
 
 - 🔍 **Smart Search**: Find restaurants by name, cuisine, or location
@@ -68,13 +64,6 @@ The app requires a Google Maps API key to function. For security:
   - Limit to your bundle identifier
   - Enable only required APIs (Places API and Maps SDK)
 
-## 📱 Screenshots
-
-<div align="center">
-  <img src="https://via.placeholder.com/200x400/FF4E01/FFFFFF?text=Splash+Screen" alt="Splash Screen" width="200"/>
-  <img src="https://via.placeholder.com/200x400/FF4E01/FFFFFF?text=Search" alt="Search" width="200"/>
-  <img src="https://via.placeholder.com/200x400/FF4E01/FFFFFF?text=Details" alt="Details" width="200"/>
-</div>
 
 ## 🤝 Contributing
 
