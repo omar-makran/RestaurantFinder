@@ -35,7 +35,7 @@ A beautiful SwiftUI app for discovering and exploring restaurants in Morocco. Fi
 2. **Open the project**
    ```bash
    cd AjiTaklFinder
-   open RestaurantFinder.xcodeproj
+   open RestaurantFinder.xcworkspace
    ```
 
 3. **Configure API Key**
