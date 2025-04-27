@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-AjiTakl/Pods-AjiTakl-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/GoogleMaps/GoogleMapsResources.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/GooglePlaces/GooglePlacesResources.bundle
