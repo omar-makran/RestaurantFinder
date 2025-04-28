@@ -29,7 +29,7 @@ A beautiful SwiftUI app for discovering and exploring restaurants in Morocco. Fi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/AjiTaklFinder.git
+   git clone https://github.com/thee-falcon/AjiTaklFinder.git
    ```
 
 2. **Open the project**
