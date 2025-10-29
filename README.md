@@ -75,7 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Omar Makran** - [@thee-falcon](https://github.com/thee-falcon)
+**Omar Makran** - [@omar-makran](https://github.com/omar-makran)
 
 ## 🙏 Acknowledgments
 
